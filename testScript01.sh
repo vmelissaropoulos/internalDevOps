@@ -1,2 +1,2 @@
 cd ~/test01
-echo date >> testFile01
+date >> testFile01
